@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Test.Selenium", "Easy.Test.Selenium\Easy.Test.Selenium.csproj", "{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Test.Selenium.Tester", "Easy.Test.Selenium.Tester\Easy.Test.Selenium.Tester.csproj", "{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release_Net46|Any CPU = Release_Net46|Any CPU
+		Release_Net47|Any CPU = Release_Net47|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Release_Net46|Any CPU.ActiveCfg = Release_Net46|Any CPU
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Release_Net46|Any CPU.Build.0 = Release_Net46|Any CPU
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Release_Net47|Any CPU.ActiveCfg = Release_Net47|Any CPU
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Release_Net47|Any CPU.Build.0 = Release_Net47|Any CPU
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A6AEC2-B261-4B87-BBF6-2E285B93AABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Release_Net46|Any CPU.ActiveCfg = Release_Net46|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Release_Net46|Any CPU.Build.0 = Release_Net46|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Release_Net47|Any CPU.ActiveCfg = Release_Net47|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Release_Net47|Any CPU.Build.0 = Release_Net47|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7D494-D5B8-4330-980C-CC76D2B23CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72438E89-62F7-496F-A341-155B0D41E73C}
+	EndGlobalSection
+EndGlobal
